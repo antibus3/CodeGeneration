@@ -1,0 +1,8 @@
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\bin\Debug\CodeGeneration.dll
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\bin\Debug\CodeGeneration.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Debug\CodeGeneration.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Debug\CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Debug\CodeGeneration.dll
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Debug\CodeGeneration.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\bin\Debug\CodeGeneration.dll.CodeAnalysisLog.xml
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\bin\Debug\CodeGeneration.dll.lastcodeanalysissucceeded

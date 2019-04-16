@@ -1,0 +1,6 @@
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\bin\Release\CodeGeneration.dll
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\bin\Release\CodeGeneration.pdb
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Release\CodeGeneration.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Release\CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Release\CodeGeneration.dll
+C:\Users\Александр\Documents\Visual Studio 2017\Projects\CodeGeneration\CodeGeneration\obj\Release\CodeGeneration.pdb
